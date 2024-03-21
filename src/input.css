@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@font-face {
+  font-family: "Alphabetized Cassette Tapes Thin";
+  src: url("./fonts/Alphabetized\ Cassette\ Tapes\ Thin.ttf");
+}
+

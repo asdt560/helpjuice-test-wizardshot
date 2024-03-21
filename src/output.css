@@ -544,6 +544,14 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.font-cassette {
+  font-family: "Alphabetized Cassette Tapes Thin", sans-serif;
+}
+
+.font-jakarta {
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+
 .text-3xl {
   font-size: 1.875rem;
   line-height: 2.25rem;
@@ -556,3 +564,10 @@ video {
 .underline {
   text-decoration-line: underline;
 }
+
+@font-face {
+  font-family: "Alphabetized Cassette Tapes Thin";
+
+  src: url("./fonts/Alphabetized\ Cassette\ Tapes\ Thin.ttf");
+}
+
